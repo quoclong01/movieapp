@@ -1,0 +1,10 @@
+.genres {
+  margin: 0 -30px;
+}
+
+.chip {
+  margin: 5px !important;
+  color: #fff !important;
+  font-size: 15px !important;
+  font-family: "Poppins", sans-serif !important;
+}

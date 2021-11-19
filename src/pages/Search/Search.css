@@ -1,0 +1,41 @@
+.container-search {
+  margin-bottom: 125px;
+}
+
+.search {
+  display: flex;
+  margin-bottom: 40px;
+}
+
+.input > div > input[type="text"] {
+  color: #fff !important;
+  font-family: "Poppins", sans-serif;
+}
+
+.input > label {
+  color: rgb(192, 192, 192) !important;
+  font-family: "Poppins", sans-serif;
+}
+
+.input {
+  background-color: #515799 !important;
+}
+
+.btnSearch {
+  background-color: #373b69 !important;
+}
+
+.tabs > div > div > button {
+  color: #fff;
+  font-family: "Poppins", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+}
+
+.tabs > div > div > .css-1h9z7r5-MuiButtonBase-root-MuiTab-root.Mui-selected {
+  color: orangered;
+}
+
+.tabs > div > span {
+  background-color: orangered;
+}
